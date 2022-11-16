@@ -1,6 +1,3 @@
-//Assignment_3_Graph
-//reference:leetcode323
-
 import java.util.*;
 import java.io.*;
 
